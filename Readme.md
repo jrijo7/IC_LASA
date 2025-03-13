@@ -32,5 +32,3 @@ Este repositório contém um código para carregamento, filtragem e análise de 
 
 ## Objetivos
 - Futuramente o objetivo é criar um alarme para temperaturas críticas
-
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir.
